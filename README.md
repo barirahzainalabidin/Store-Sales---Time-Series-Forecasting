@@ -4,7 +4,11 @@ This project is predict sales for the thousands of product families sold at Favo
 
 # Notebook Solution
 
+Link - https://www.kaggle.com/code/barirahzainal/store-sales-automl-h2o
+
 # RMSLE Metric
+
+- 1.05626
 
 # Deployment
 
